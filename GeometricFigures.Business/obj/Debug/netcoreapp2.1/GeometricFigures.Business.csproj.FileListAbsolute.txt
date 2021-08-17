@@ -1,0 +1,12 @@
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\bin\Debug\netcoreapp2.1\GeometricFigures.Business.deps.json
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\bin\Debug\netcoreapp2.1\GeometricFigures.Business.dll
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\bin\Debug\netcoreapp2.1\GeometricFigures.Business.pdb
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\bin\Debug\netcoreapp2.1\GeometricFigures.Model.dll
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\bin\Debug\netcoreapp2.1\GeometricFigures.Model.pdb
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\obj\Debug\netcoreapp2.1\GeometricFigures.Business.csprojAssemblyReference.cache
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\obj\Debug\netcoreapp2.1\GeometricFigures.Business.AssemblyInfoInputs.cache
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\obj\Debug\netcoreapp2.1\GeometricFigures.Business.AssemblyInfo.cs
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\obj\Debug\netcoreapp2.1\GeometricFigures.Business.csproj.CoreCompileInputs.cache
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\obj\Debug\netcoreapp2.1\GeometricFigures.Business.csproj.CopyComplete
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\obj\Debug\netcoreapp2.1\GeometricFigures.Business.dll
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Business\obj\Debug\netcoreapp2.1\GeometricFigures.Business.pdb

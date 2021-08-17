@@ -1,0 +1,9 @@
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Model\bin\Debug\netcoreapp2.1\GeometricFigures.Model.deps.json
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Model\bin\Debug\netcoreapp2.1\GeometricFigures.Model.dll
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Model\bin\Debug\netcoreapp2.1\GeometricFigures.Model.pdb
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Model\obj\Debug\netcoreapp2.1\GeometricFigures.Model.csprojAssemblyReference.cache
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Model\obj\Debug\netcoreapp2.1\GeometricFigures.Model.AssemblyInfoInputs.cache
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Model\obj\Debug\netcoreapp2.1\GeometricFigures.Model.AssemblyInfo.cs
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Model\obj\Debug\netcoreapp2.1\GeometricFigures.Model.csproj.CoreCompileInputs.cache
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Model\obj\Debug\netcoreapp2.1\GeometricFigures.Model.dll
+C:\Users\wollman.bachiller\source\repos\GeometricFigures\GeometricFigures.Model\obj\Debug\netcoreapp2.1\GeometricFigures.Model.pdb
