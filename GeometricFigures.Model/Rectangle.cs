@@ -10,9 +10,5 @@ namespace GeometricFigures.Model
         public string basis { get; set; }
         public string height { get; set; }
 
-        public void tales()
-        {
-            this.creartales();
-        }
     }
 }

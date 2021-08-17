@@ -19,7 +19,7 @@ namespace GeometricFigures.Business.Services
             catch (Exception)
             {
 
-                throw new Exception("Error convirtiendo el valor de radio, este numero debe ser decimal");
+                throw new Exception("Error converting the radio value, this number must be decimal.");
             }
 
 

@@ -20,7 +20,7 @@ namespace GeometricFigures.Business.Services
             }
             catch (Exception)
             {
-                throw new Exception("Error convirtiendo la base o la altura, estos numero debe ser decimal");
+                throw new Exception("Error converting basis or height, these numbers must be decimal.");
             }
            
         }
