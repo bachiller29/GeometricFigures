@@ -3,3 +3,14 @@ Este repositorio contiene la API necesaria para hallar el area de un rectangulo 
 
 # Arquitectura
 Se crea arquitectura en capas con el fin de separar las responsabilidad de cada una de las capas de la aplicacion, con el fin de cambiar tecnologia de acceso a datos o de servicios web, sin afectar las reglas de negocio.
+
+# URL Rectangle
+ * https://localhost:44376/api/Rectangle
+ 
+ REQUEST
+ 
+ {
+    "basis":2,
+    "height":"as"
+ }
+ 
